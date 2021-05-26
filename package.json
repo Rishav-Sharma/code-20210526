@@ -1,0 +1,14 @@
+{
+  "name": "calculate_user_bmi",
+  "version": "1.0.0",
+  "description": "Script for BMI, BMI Category Health Risk ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rishav Sharma",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
